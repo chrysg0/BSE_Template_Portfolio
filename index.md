@@ -1,13 +1,13 @@
-# Project Name Here
+# Image Recognition
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| FirstName LastInitialOnly | School Name | Electrical Engineering | Incoming Senior
+| Chrystopher G | Regis High School | Engineering | Incoming Sophmore
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-![Headstone Image](logo.svg)
+![Headstone Image](IMG_0117.jpg)
   
 # Final Milestone
 For your final milestone, explain the outcome of your project. Key details to include are:
@@ -31,12 +31,26 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# First Milestone
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+# First Milestone: Rasberry Pi Installation and Setup
+
+My first milestone started with setting up the Rasberry pi and LCD monitor. An SD card was inserted into the Pi to supply storage and memory to the computer. Then, I copied code in Thonny and installed OpenCV in the Raspberry Pi terminal to recognize an image. After that, I used a jpg image from online for my code. I ran the code.py code, which was able to correctly detect the image's face.
+
+One of the challenges faced in the first milestone was getting the LCD monitor to connect to the Rasberry Pi and receive signal.
+
+In future milestones, the challenges to be addressed include:
+
+- I need a Rasberry Pi camera.
+
+To complete the project, the following steps will be taken in the next milestones:
+
+- I will set up the Rasberry Pi camera.
+- It will be able to detect things in the camera. 
+
+**For your first milestone, describe what your project is and how you plan to build it. You can include:**
+- **An explanation about the different components of your project and how they will all integrate together**
+- **Technical progress you've made so far**
+- **Challenges you're facing and solving in your future milestones**
+- **What your plan is to complete your project**
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
