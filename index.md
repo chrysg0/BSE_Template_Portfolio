@@ -5,8 +5,6 @@ My project is Rasberry Pi image and facial recognition. I will be using a Rasber
 |:--:|:--:|:--:|:--:|
 | Chrystopher G | Regis High School | Engineering | Incoming Sophmore
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
-
 ![Headstone Image](IMG_0117.jpg)
   
 # Final Milestone
@@ -36,7 +34,7 @@ To complete the project, the following steps will be taken in the next milestone
 
 ![Headstone Image](IMG_0150.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/y3VAmNlER5Y](https://www.youtube.com/watch?v=u_gxb7IhWis)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone: Image Recognition
 
@@ -56,7 +54,7 @@ To complete the project, the following steps will be taken in the next milestone
 
 ![Headstone Image](IMG_0387.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/CaCazFBhYKs](https://www.youtube.com/watch?v=OXp_PtoNmEI)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
