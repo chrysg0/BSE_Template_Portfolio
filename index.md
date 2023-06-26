@@ -38,7 +38,7 @@ To complete the project, the following steps will be taken in the next milestone
 
 # First Milestone: Image Recognition
 
-My first milestone started with setting up the Rasberry pi and LCD monitor. An SD card was inserted into the Pi to supply storage and memory to the computer. Then, I copied code in Thonny and installed OpenCV in the Raspberry Pi terminal to recognize an image. After that, I used a jpg image from online for my code. I ran the code.py code, which was able to correctly detect the image's face.
+My first milestone started with setting up the Rasberry pi and LCD monitor. An SD card was inserted into the Pi to supply storage and memory to the computer. Then, I copied code in Thonny and installed OpenCV in the Raspberry Pi terminal to recognize an image. After that, I used an online jpg image for my code. I ran the code.py code, which was able to correctly detect the image's face.
 
 One of the challenges faced in the first milestone was getting the LCD monitor to connect to the Rasberry Pi and receive signal.
 
