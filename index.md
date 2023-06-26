@@ -52,7 +52,9 @@ In future milestones, the challenges to be addressed include:
 To complete the project, the following steps will be taken in the next milestones:
 
 - I will set up the Rasberry Pi camera.
-- It will be able to detect my face in the camera. 
+- It will be able to detect my face in the camera.
+
+![Headstone Image](IMG_0387.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
