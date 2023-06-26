@@ -34,7 +34,7 @@ To complete the project, the following steps will be taken in the next milestone
 
 ![Headstone Image](IMG_0150.jpg)
 
-<iframe width="560" height="315" src="(https://www.youtube.com/watch?v=u_gxb7IhWis)](https://youtu.be/u_gxb7IhWis)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="[(https://www.youtube.com/watch?v=u_gxb7IhWis)](https://youtu.be/u_gxb7IhWis)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone: Image Recognition
 
@@ -54,7 +54,7 @@ To complete the project, the following steps will be taken in the next milestone
 
 ![Headstone Image](IMG_0387.png)
 
-<iframe width="560" height="315" src="(https://www.youtube.com/watch?v=OXp_PtoNmEI)](https://youtu.be/OXp_PtoNmEI)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="[(https://www.youtube.com/watch?v=OXp_PtoNmEI)](https://youtu.be/OXp_PtoNmEI)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
