@@ -23,6 +23,8 @@ For your final milestone, explain the outcome of your project. Key details to in
 # Second Milestone: Facial Recognition
 Since my previous milestone, I have enabled and installed the camera module into the Rasberry Pi. I Installed OpenCV by running certain commands in my Terminal. I copied the files containing the Python code I needed. Finally, I took photos of myself to train my Rasberry Pi to recognize my face.
 
+One of the challenges faced in the second milestone was enabling the camera.
+
 In future milestones, the challenges to be addressed include:
 
 - The eyes in image recognition detect the mouth as the eyes
