@@ -25,12 +25,12 @@ Since my previous milestone, I have enabled and installed the camera module into
 
 In future milestones, the challenges to be addressed include:
 
-The eyes in image recognition detect the mouth as the eyes
-The ears are not being detected,
+- The eyes in image recognition detect the mouth as the eyes
+- The ears are not detected
 
 To complete the project, the following steps will be taken in the next milestones:
 
-Setup Email Notifications for Raspberry Pi Facial Recognition
+- Setup Email Notifications for Raspberry Pi Facial Recognition
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ In future milestones, the challenges to be addressed include:
 To complete the project, the following steps will be taken in the next milestones:
 
 - I will set up the Rasberry Pi camera.
-- It will be able to detect things in the camera. 
+- It will be able to detect my eyes, nose and smile in the camera. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
