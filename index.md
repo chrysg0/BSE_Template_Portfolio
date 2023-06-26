@@ -47,11 +47,12 @@ One of the challenges faced in the first milestone was getting the LCD monitor t
 In future milestones, the challenges to be addressed include:
 
 - I need a Rasberry Pi camera.
+- I hope to code my Rasberry Pi to detect an images' nose, eyes and smile.
 
 To complete the project, the following steps will be taken in the next milestones:
 
 - I will set up the Rasberry Pi camera.
-- It will be able to detect my eyes, nose and smile in the camera. 
+- It will be able to detect my face in the camera. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
