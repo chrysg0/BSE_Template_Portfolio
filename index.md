@@ -8,7 +8,7 @@ My project is Rasberry Pi image and facial recognition. I will be using a Rasber
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone Image](IMG_0117.jpg)
-
+![Headstone Image](IMG_0150.jpg)
   
 # Final Milestone
 For your final milestone, explain the outcome of your project. Key details to include are:
