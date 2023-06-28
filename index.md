@@ -1,5 +1,5 @@
 # Rasberry Pi Image and Facial Recognition
-My project is Rasberry Pi image and facial recognition. I will be using a Rasberry Pi, camera, and LCD monitor in this project. I will make a porject that can detect faces in an image and camera!
+My project is Rasberry Pi image and facial recognition. I will be using a Rasberry Pi, camera, and LCD monitor in this project. I will make a project that can detect faces in an image and camera!
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
