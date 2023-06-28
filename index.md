@@ -8,7 +8,8 @@ My project is Rasberry Pi image and facial recognition. I will be using a Rasber
 ![Headstone Image](IMG_0117.jpg)
   
 # Final Milestone
-
+Since my second milestone, I have setup email notifications to the facial recognition Python code. I modified the code using Twilio SendGrid.
+One of the challenges faced in the third milestone was 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
