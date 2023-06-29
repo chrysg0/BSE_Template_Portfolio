@@ -15,7 +15,7 @@ One of the challenges faced in the third milestone was trying to understand the 
 If I had more time, the following steps would be taken in the next milestone:
 - Emotion Recognition.
 
-![Headstone Image](IMG_0421.jpg)
+![Headstone Image](IMG_0421.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
