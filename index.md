@@ -402,9 +402,9 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | Raspberry Pi 4B Starter Kit | Image and Facial Recognition | $119.96 (at current time) | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.pishop.us/product/raspberry-pi-4b-starter-kit/)"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Rasberry Pi Camera | Facial Recognition | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Raspberry Pi Camera Module V2 | Facial Recognition | $29.95 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6](https://www.pishop.us/product/raspberry-pi-camera-module-v2/?src=raspberrypi)"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Wireless Keyboard and Mouse (with a Mouse Receiver) | In order to use the LCD monitor | $22.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Wireless-Keyboard-WisFox-Full-Size-Computer/dp/B08R683JVW?th=1)"> Link </a> |
 |:--:|:--:|:--:|:--:|
 
 # Other Resources/Examples
