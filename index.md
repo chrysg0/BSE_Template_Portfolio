@@ -10,10 +10,10 @@ My project is Rasberry Pi image and facial recognition. I will be using a Rasber
 # Final Milestone
 Since my second milestone, I have setup email notifications to the facial recognition Python code. I modified the code by adding my Twilio SendGrid API key, domain and email address . I saw my name "Chrystopher" in the terminal, followed by "Take a picture" to indicate that the Rasberry Pi camera was taking a picture, and then "Status Code: 202" to indicate that the email had been sent. This email contained my name and a photo attachment.
 
-One of the challenges faced in the third milestone was trying to understand the error in my code.
+One of the challenges faced in the third milestone was trying to understand the error in my code. I overcame this by using documentation from Twilio.
 
 If I had more time, the following steps would be taken in the next milestone:
-- Emotion Recognition.
+- Emotion Recognition
 
 ![Headstone Image](IMG_0421.png)
 
