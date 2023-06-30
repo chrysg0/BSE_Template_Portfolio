@@ -17,7 +17,7 @@ If I had more time, the following steps would be taken in the next milestone:
 
 ![Headstone Image](IMG_0421.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1o0Jfamsjmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Second Milestone: Facial Recognition
 Since my previous milestone, I have enabled and installed the camera module into the Rasberry Pi. I Installed OpenCV by running certain commands into the terminal. I copied the files containing the Python code I needed. Finally, I took photos of myself to train my Rasberry Pi to recognize my face.
