@@ -15,9 +15,14 @@ One of the challenges faced in the third milestone was trying to understand the 
 If I had more time, the following steps would be taken in the next milestone:
 - Emotion Recognition
 
-![Headstone Image](IMG_0421.png)
+<div align="center">
+  <img src="IMG_0421.png" width="560">
+</div>
 
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1o0Jfamsjmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 # Second Milestone: Facial Recognition
 Since my previous milestone, I have enabled and installed the camera module into the Rasberry Pi. I Installed OpenCV by running certain commands into the terminal. I copied the files containing the Python code I needed. Finally, I took photos of myself to train my Rasberry Pi to recognize my face.
@@ -33,9 +38,14 @@ To complete the project, the following steps will be taken in the next milestone
 
 - Setup Email Notifications for Raspberry Pi Facial Recognition
 
-![Headstone Image](IMG_0150.jpg)
+<div align="center">
+  <img src="IMG_0150.jpg" width="560">
+</div>
 
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u_gxb7IhWis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 # First Milestone: Image Recognition
 
@@ -53,13 +63,19 @@ To complete the project, the following steps will be taken in the next milestone
 - I will set up the Rasberry Pi camera.
 - It will be able to detect my face in the camera.
 
-![Headstone Image](IMG_0387.png)
+<div align="center">
+  <img src="IMG_0387.png" width="560">
+</div>
 
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OXp_PtoNmEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 # Schematics 
 
-![Headstone Image](part2_photo_booth_camera_test_circuit-700w_kBx83qDiTc.png)
+<div align="center">
+  <img src="part2_photo_booth_camera_test_circuit-700w_kBx83qDiTc.png" width="560">
+</div>
 
 # Code
 
